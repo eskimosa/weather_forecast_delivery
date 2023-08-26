@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+twilio==8.5.0
+python-dotenv==0.19.1
+typer==0.9.0
